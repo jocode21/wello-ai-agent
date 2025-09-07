@@ -35,3 +35,6 @@ tinyllama-1.1b-chat-v1.0.Q4_K_M.gguf \
 python app.py
 
 <img width="1600" height="264" alt="image" src="https://github.com/user-attachments/assets/3abade06-e955-4516-a3d9-15b8ac9a81ac" />
+
+<img width="1600" height="341" alt="image" src="https://github.com/user-attachments/assets/53b2cb86-c2fb-4016-91a2-fea3ff7efafc" />
+
