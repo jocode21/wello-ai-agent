@@ -1,0 +1,2 @@
+This is an example knowledge base document for the AI agent.
+You can replace this with your own data.

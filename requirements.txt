@@ -1,0 +1,9 @@
+langchain
+chromadb
+sentence-transformers
+gradio
+fastapi
+uvicorn
+python-dotenv
+llama-cpp-python
+httpx
